@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pyhos
+- 👀 I’m interested in javascript, html, css, c#
+- 🌱 I’m currently learning python, java
